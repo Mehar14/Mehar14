@@ -7,6 +7,7 @@ Currently, I am enrolled in the **Oxford Machine Learning Summer School**, expan
 - 🔭 I’ve completed my Final Year Design Project: Tracefy — an AI-powered system for generating realistic criminal sketches from sketches + descriptive prompts.   
 - 🤝 I’m looking to collaborate on AI for social good, open-source AI tools and tech-for-policy initiatives.  
 - 🌏 Fun fact: I’ve represented Pakistan as a Cultural Ambassador in the United States.
+- - 📂 [View all my projects](https://github.com/Mehar14?tab=repositories)
 
 ## 🚀 Key Projects  
 
