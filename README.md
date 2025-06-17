@@ -1,6 +1,16 @@
 ## Hi there! 👋
 
-I am a Computer Science graduate from NUST passionate about working on projects related to Generative AI and Natural Language Processing. 
+I am a **Computer Science graduate from National University of Sciences and Technology (NUST)**, passionate about working on projects related to **Generative AI** and **Natural Language Processing**. I am especially interested in exploring the **intersection of AI and Public Policy**, aiming to contribute to responsible and impactful AI solutions.  
+
+Currently, I am enrolled in the **Oxford Machine Learning Summer School**, expanding my knowledge on use cases of Generative AI by attending lectures from leading industry researchers.  
+
+- 🔭 I’ve completed my Final Year Design Project: Tracefy — an AI-powered system for generating realistic criminal sketches from sketches + descriptive prompts.   
+- 👯 I’m looking to collaborate on: AI for social good, open-source AI tools, tech-for-policy initiatives.  
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mehar-ali-ahmed) | [GitHub](https://github.com/Mehar14) | [meharaliahmed@gmail.com](mailto:meharaliahmed@gmail.com)  
+- ⚡ Fun fact: I’ve represented Pakistan as a Cultural Ambassador in the United States. 
+
+ ## 🚀 Key Projects
+Listed below are some of the projects I have completed during my studies. You can view the repository of each project for a deeper understanding of the workflow and implementation details.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
