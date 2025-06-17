@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi,👋I'm Mehar
 
 I am a **Computer Science graduate from National University of Sciences and Technology (NUST)**, passionate about working on projects related to **Generative AI** and **Natural Language Processing**. I am especially interested in exploring the **intersection of AI and Public Policy**, aiming to contribute to responsible and impactful AI solutions.  
 
@@ -44,13 +44,14 @@ Listed below are some of the projects I have completed during my studies. You ca
 
 
 ## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehar14&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehar14&layout=compact&theme=tokyonight)
 
 ## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehar-ali-ahmed)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Mehar14)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:meharaliahmed@gmail.com)
+
 
 
 
