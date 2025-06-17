@@ -6,7 +6,6 @@ Currently, I am enrolled in the **Oxford Machine Learning Summer School**, expan
 
 - 🔭 I’ve completed my Final Year Design Project: Tracefy — an AI-powered system for generating realistic criminal sketches from sketches + descriptive prompts.   
 - 🤝 I’m looking to collaborate on AI for social good, open-source AI tools and tech-for-policy initiatives.  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mehar-ali-ahmed) | [GitHub](https://github.com/Mehar14) | [meharaliahmed@gmail.com](mailto:meharaliahmed@gmail.com)  
 - 🌏 Fun fact: I’ve represented Pakistan as a Cultural Ambassador in the United States.
 
 ## 🚀 Key Projects  
@@ -27,4 +26,11 @@ Listed below are some of the projects I have completed during my studies. You ca
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehar14&layout=compact&theme=radical)
+
+## 📫 How to reach me:**  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehar-ali-ahmed)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Mehar14)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:meharaliahmed@gmail.com)
+
 
