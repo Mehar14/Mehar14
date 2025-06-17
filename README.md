@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am a computer science graduate from NUST with interests 
+I am a Computer Science graduate from NUST passionate about working on projects related to Generative AI and Natural Language Processing. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
