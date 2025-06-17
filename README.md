@@ -52,13 +52,6 @@ Listed below are some of the projects I have completed during my studies. You ca
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Mehar14)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:meharaliahmed@gmail.com)
 
-## 💬 Drop a Comment or Suggestion  
-
-I’m always open to feedback, ideas, or collaboration opportunities!  
-Feel free to **open an issue on my GitHub profile** or **drop me a message**:  
-
-[![GitHub Issues](https://img.shields.io/badge/Open%20an%20Issue-181717?style=flat-square&logo=github)](https://github.com/Mehar14/Mehar14/issues)  
-[![Email](https://img.shields.io/badge/Email-meharaliahmed@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:meharaliahmed@gmail.com)
 
 
 
