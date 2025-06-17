@@ -1,4 +1,4 @@
-## Hi there!👋
+## Hi there! 👋
 
 I am a **Computer Science graduate from National University of Sciences and Technology (NUST)**, passionate about working on projects related to **Generative AI** and **Natural Language Processing**. I am especially interested in exploring the **intersection of AI and Public Policy**, aiming to contribute to responsible and impactful AI solutions.  
 
