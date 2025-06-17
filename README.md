@@ -27,7 +27,7 @@ Listed below are some of the projects I have completed during my studies. You ca
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehar14&layout=compact&theme=radical)
 
-## 📫 How to reach me:**  
+## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehar-ali-ahmed)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Mehar14)
