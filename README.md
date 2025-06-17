@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am a compiuter science graduate from NUST with interests 
+I am a computer science graduate from NUST with interests 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
