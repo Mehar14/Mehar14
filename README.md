@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I’m a Computer Science graduate from NUST with interests in Generative AI, NLP, and Product Research. I enjoy exploring user needs and translating ideas into meaningful product experiences.
+I’m a Computer Science graduate from NUST with interests in Product Research and AI Safety. Professionally, I work on translating ideas into product experiences, while also having a strong interest in academic research, particularly in AI safety.
 
 ## 🚀 Key Projects  
 
